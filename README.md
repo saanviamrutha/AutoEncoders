@@ -1,1 +1,2 @@
 # AutoEncoders
+Designed and trained autoencoders (with L2/dropout regularization) and a Variational Autoencoder (VAE) on MNIST using PyTorch, achieving low reconstruction errors and generating synthetic digits. Implemented latent space interpolation for autoencoders and leveraged probabilistic sampling for VAE-based image generation, demonstrating expertise in neural network architecture, regularization, and generative modeling.
